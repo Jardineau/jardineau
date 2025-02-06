@@ -1,5 +1,5 @@
 <h1>Hey, 
-  <br><br>I'm Jardineau, an <a href="https://www.linkedin.com/in/jardineaupierre/">IT Professional</a> </h1></h1>
+  <br>I'm Jardineau, an <a href="https://www.linkedin.com/in/jardineaupierre/">IT Professional</a> </h1></h1>
 
 <h2>Information Technology Projects:</h2>
 
