@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jardineau/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Jardineau/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples]()
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jardineau/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
