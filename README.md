@@ -11,6 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jardineau/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jardineau/azure-network-protocols)
 - <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine](https://github.com/Jardineau/vpn)
 
 <h2>🤳Connect with me:</h2>
 
